@@ -1,0 +1,10 @@
+ Volume in drive C is ????? ???
+ Volume Serial Number is 8877-41DF
+
+ Directory of C:\Git_Projests\MyProject
+
+17.03.2018  12:30    <DIR>          .
+17.03.2018  12:30    <DIR>          ..
+17.03.2018  12:30                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  148ÿ816ÿ531ÿ456 bytes free
